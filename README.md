@@ -8,8 +8,10 @@
 - AI/ML applications in financial modeling and market intelligence
 
 ### 🛠️ Tech Stack
-**AI/ML:** Python, TensorFlow, PyTorch, NLP, Deep Learning, LangChain, RAG, MCP 
+**AI/ML:** Python, TensorFlow, PyTorch, NLP, Deep Learning, LangChain, RAG, MCP
+
 **Data Engineering:** SQL, NoSQL, pandas, numpy, ETL/ELT pipelines  
+
 **Tools & Platforms:** Power BI, Web Scraping, REST APIs, Knowledge Graphs (RDF, SPARQL)
 
 ### 📫 Let's Connect
