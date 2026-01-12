@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**rkaravangelis/rkaravangelis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Market Analyst & AI Engineer** building intelligent systems for data-driven decision-making.
 
-Here are some ideas to get you started:
+### 🎯 Currently Working On
+- Master's thesis on **Multi-Agent LLM Systems for Portfolio Management**
+- Data pipelines & forecasting models at PERI
+- AI/ML applications in financial modeling and market intelligence
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+**AI/ML:** Python, TensorFlow, PyTorch, NLP, Deep Learning, LangChain, RAG, MCP 
+**Data Engineering:** SQL, NoSQL, pandas, numpy, ETL/ELT pipelines  
+**Tools & Platforms:** Power BI, Web Scraping, REST APIs, Knowledge Graphs (RDF, SPARQL)
+
+### 📫 Let's Connect
+[LinkedIn](https://www.linkedin.com/in/radoslav-karavangelis-a1466a253/)
+
+---
+
+💼 **Open to opportunities in:** Quantitative Finance | ML Engineering | AI Product Development | Data Engineering
