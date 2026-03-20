@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-**Market Analyst & AI Engineer** building intelligent systems for data-driven decision-making.
+**Market Analyst and AI student** building intelligent systems for data-driven decision-making.
 
 ### 🎯 Currently Working On
 - Master's thesis on **Multi-Agent LLM Systems for Stock Trading**
