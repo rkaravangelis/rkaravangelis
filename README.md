@@ -3,7 +3,7 @@
 **Market Analyst & AI Engineer** building intelligent systems for data-driven decision-making.
 
 ### 🎯 Currently Working On
-- Master's thesis on **Multi-Agent LLM Systems for Portfolio Management**
+- Master's thesis on **Multi-Agent LLM Systems for Stock Trading**
 - Data pipelines & forecasting models at PERI
 - AI/ML applications in financial modeling and market intelligence
 
@@ -16,7 +16,3 @@
 
 ### 📫 Let's Connect
 [LinkedIn](https://www.linkedin.com/in/radoslav-karavangelis-a1466a253/)
-
----
-
-💼 **Open to opportunities in:** Quantitative Finance | ML Engineering | AI Product Development | Data Engineering
