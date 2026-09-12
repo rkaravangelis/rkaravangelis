@@ -34,7 +34,3 @@
 6. NoSQL Enterprise Application
 7. Bachelor's Thesis: Recall Analytics Pipeline (Robert Bosch, restricted)
 8. Web Scraping Toolkit (pandas, requests, Scrapy)
-
-### 🤝 Connect
-
-[ralekaravangelis@googlemail.com](mailto:ralekaravangelis@googlemail.com)
