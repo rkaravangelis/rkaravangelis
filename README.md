@@ -1,20 +1,20 @@
-# Radoslav Karavangelis
+# 🌉 Radoslav Karavangelis
 
 Working at the intersection of data engineering, generative AI, and domain-specific development, translating business knowledge across finance, automotive, and construction into scalable models.
 
-### Current Focus
+### 📈 Current Focus
 
 - **Master's Thesis:** Proof-of-concept for a Multi-Agent LLM Framework combining multi-perspective financial analysis, domain-specific RAG pipelines, and context engineering for cost efficiency, performance, and deterministic behavior.
 - **Market Analyst Expert, PERI:** Turning business needs into analytical models, from problem structuring through data engineering to stakeholder validation and strategic decision support.
 
-### Role at PERI
+### 🧩 Role at PERI
 
-1. **Business structuring:** with product managers and domain experts, translating business knowledge into a scalable model.
+1. **Business structuring:** with product managers and domain experts, translating expert knowledge into a scalable model.
 2. **Data engineering:** building pipelines that collect and combine various internal and external data sources.
 3. **Stakeholder validation:** presenting results, gathering feedback and use cases, iterating accordingly.
 4. **Strategic support:** using the data to inform decisions and build business cases, including three-statement models.
 
-### Tech Stack
+### ⚙️ Tech Stack
 
 **Data Engineering & Analytics:** Python, SQL, Power BI, Web Scraping, Financial Analysis, VBA
 
@@ -24,7 +24,7 @@ Working at the intersection of data engineering, generative AI, and domain-speci
 
 **Systems & Deployment:** Docker, Java, NoSQL
 
-### Projects
+### 📂 Projects
 
 *Marked projects are partial demonstrations due to confidentiality constraints, shown to illustrate skills, methodology, and design rather than as complete codebases.*
 
@@ -37,6 +37,6 @@ Working at the intersection of data engineering, generative AI, and domain-speci
 7. Bachelor's Thesis: Recall Analytics Pipeline (Robert Bosch, restricted)
 8. Web Scraping Toolkit (pandas, requests, Scrapy)
 
-### Connect
+### 🤝 Connect
 
-[LinkedIn](https://www.linkedin.com/in/radoslav-karavangelis-a1466a253/)
+[ralekaravangelis@googlemail.com](mailto:ralekaravangelis@googlemail.com)
