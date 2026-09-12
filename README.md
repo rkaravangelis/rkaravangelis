@@ -30,8 +30,7 @@
 2. LLM-as-a-Judge Evaluation for HyDE-based RAG Pipelines (Master's Thesis, partial)
 3. Market Demand Model Methodology (PERI, restricted)
 4. Machine Learning: [K-Means++ From Scratch](https://github.com/rkaravangelis/kmeans-plusplus-from-scratch) 
-5. Deep Learning:
-6. Distributed Systems with Docker and Kubernetes
-7. NoSQL Enterprise Application
-8. Bachelor's Thesis: Recall Analytics Pipeline (Robert Bosch, restricted)
-9. Web Scraping Toolkit (pandas, requests, Scrapy)
+5. Distributed Systems with Docker and Kubernetes
+6. NoSQL Enterprise Application
+7. Bachelor's Thesis: Recall Analytics Pipeline (Robert Bosch, restricted)
+8. Web Scraping Toolkit (pandas, requests, Scrapy)
