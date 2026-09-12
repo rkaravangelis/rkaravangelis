@@ -1,5 +1,3 @@
-# Radoslav Karavangelis
-
 🌉 Working at the intersection of data engineering, generative AI, and domain-specific development, translating business knowledge across finance, automotive, and construction into scalable models.
 
 ### 📈 Current Focus
