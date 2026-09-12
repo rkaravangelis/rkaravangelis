@@ -1,11 +1,11 @@
-### 🌉 Combines hands-on experience in data engineering, generative AI, and domain-specific development, translating business knowledge across finance, automotive, and construction into scalable models.
+### Combines hands-on experience in data engineering, generative AI, and domain-specific development, translating business knowledge across finance, automotive, and construction into scalable models.
 
 ### 📈 Current Focus
 
 - **Master's Thesis:** Proof-of-concept for a Multi-Agent LLM Framework combining multi-perspective financial analysis, domain-specific RAG pipelines, and context engineering for cost efficiency, performance, and deterministic behavior.
 - **Market Analyst Expert, PERI:** Turning business needs into analytical models, from problem structuring through data engineering to stakeholder validation and strategic decision support.
 
-### 🧩 Role at PERI
+### 🌉 Role at PERI
 
 1. **Business structuring:** with product managers and domain experts, translating expert knowledge into a scalable model.
 2. **Data engineering:** building pipelines that collect and combine various internal and external data sources.
