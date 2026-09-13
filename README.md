@@ -27,7 +27,7 @@
 *Marked projects are partial demonstrations due to confidentiality constraints, shown to illustrate skills, methodology, and design rather than as complete codebases.*
 
 1. Agent Development Framework, single agent implementation (Master's Thesis, partial)
-2. LLM-as-a-Judge Evaluation for HyDE-based RAG Pipelines (Master's Thesis, partial)
+2. HyDE-based RAG Pipelines (Master's Thesis, partial)
 3. Market Demand Model Methodology (PERI, restricted)
 4. Machine Learning: [K-Means++ From Scratch](https://github.com/rkaravangelis/kmeans-plusplus-from-scratch)
 5. Natural Language Processing: [Sentence VAE, Generating Sentences from a Continuous Space](https://github.com/rkaravangelis/vae-sentence-generation) (group project)
