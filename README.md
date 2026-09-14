@@ -35,3 +35,4 @@
 7. [NoSQL Enterprise Application](https://github.com/rkaravangelis/nosql-enterprise-application) (group project)
 8. Bachelor's Thesis: Recall Analytics Pipeline (Robert Bosch, restricted)
 9. [Web Scraping Toolkit](https://github.com/rkaravangelis/web-scraping-portfolio) (pandas, requests, BeautifulSoup, Scrapy)
+10. [Enterprise Application Engineering](https://github.com/rkaravangelis/learcy-enterprise-application) (group project)
