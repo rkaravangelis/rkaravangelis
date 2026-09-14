@@ -34,4 +34,4 @@
 6. Distributed Systems with Docker and Kubernetes
 7. NoSQL Enterprise Application
 8. Bachelor's Thesis: Recall Analytics Pipeline (Robert Bosch, restricted)
-9. Web Scraping Toolkit (pandas, requests, Scrapy)
+9. [Web Scraping Toolkit](https://github.com/rkaravangelis/web-scraping-portfolio) (pandas, requests, BeautifulSoup, Scrapy)
