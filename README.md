@@ -31,7 +31,7 @@
 3. Market Demand Model Methodology (PERI, restricted)
 4. Machine Learning: [K-Means++ From Scratch](https://github.com/rkaravangelis/kmeans-plusplus-from-scratch), [Regression Framework: From Outlier Detection to Multivariate Prediction](https://github.com/rkaravangelis/regression-framework)
 5. Natural Language Processing: [Sentence VAE, Generating Sentences from a Continuous Space](https://github.com/rkaravangelis/vae-sentence-generation) (group project)
-6. Distributed Systems with Docker and Kubernetes
+6. [Distributed Systems with Docker and Kubernetes](https://github.com/rkaravangelis/microservices-demo)
 7. [NoSQL Enterprise Application](https://github.com/rkaravangelis/nosql-enterprise-application) (group project)
 8. Bachelor's Thesis: Recall Analytics Pipeline (Robert Bosch, restricted)
 9. [Web Scraping Toolkit](https://github.com/rkaravangelis/web-scraping-portfolio) (pandas, requests, BeautifulSoup, Scrapy)
