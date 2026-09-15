@@ -24,7 +24,7 @@
 
 ### 📂 Projects
 
-*Marked projects are partial demonstrations due to confidentiality constraints, shown to illustrate skills, methodology, and design rather than as complete codebases.*
+*These are partial demonstrations due to confidentiality constraints, shown to illustrate skills, methodology, and design rather than as complete codebases.*
 
 1. HyDE-based RAG Pipeline: [Hypothetical Document Embedding for Financial RAG](https://github.com/rkaravangelis/hyde-rag-pipeline) (Master's Thesis, partial)
 2. Single-Agent Trading System: [Price Analyst, built on TradingAgents](https://github.com/rkaravangelis/single-agent-development-framework) (Master's Thesis, partial)
