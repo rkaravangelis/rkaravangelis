@@ -27,7 +27,7 @@
 *Marked projects are partial demonstrations due to confidentiality constraints, shown to illustrate skills, methodology, and design rather than as complete codebases.*
 
 1. HyDE-based RAG Pipeline: [Hypothetical Document Embedding for Financial RAG](https://github.com/rkaravangelis/hyde-rag-pipeline) (Master's Thesis, partial)
-2. Single-Agent Trading System: [Price Analyst, built on TradingAgents](https://github.com/rkaravangelis/single-agent-implementation) (Master's Thesis, partial)
+2. Single-Agent Trading System: [Price Analyst, built on TradingAgents](https://github.com/rkaravangelis/single-agent-development-framework) (Master's Thesis, partial)
 3. LLM-Assisted Data Pipelines: [Structured Data Generation with Claude](https://github.com/rkaravangelis/llm-structured-data-pipeline)
 4. LLM-Assisted Sentiment Analysis: [News Sentiment Agent](https://github.com/rkaravangelis/llm-news-sentiment-agent) (draft)
 5. Machine Learning: [K-Means++ From Scratch](https://github.com/rkaravangelis/kmeans-plusplus-from-scratch), [Regression Framework: From Outlier Detection to Multivariate Prediction](https://github.com/rkaravangelis/regression-framework)
