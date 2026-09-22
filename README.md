@@ -5,13 +5,6 @@
 - **Master's Thesis:** Proof-of-concept for a Multi-Agent LLM Framework combining multi-perspective financial analysis, domain-specific RAG pipelines, and context engineering for cost efficiency, performance, and deterministic behavior.
 - **Market Analyst Expert, PERI:** Turning business needs into analytical models, from problem structuring through data engineering to stakeholder validation and strategic decision support.
 
-### 🌉 Role at PERI
-
-1. **Business structuring:** with product managers and domain experts, translating expert knowledge into a scalable model.
-2. **Data Engineering:** Building pipelines that collect and combine various internal and external data sources.
-3. **Stakeholder validation:** Presenting results, gathering feedback and use cases, iterating accordingly.
-4. **Strategic support:** using the data to inform decisions and build business cases, including three-statement models.
-
 ### ⚙️ Tech Stack
 
 **Generative AI:** LLM · RAG · Vector Database · Context & Prompt Engineering
