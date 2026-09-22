@@ -1,4 +1,4 @@
-### Combines hands-on experience in data engineering, generative AI, and domain-specific development, translating business knowledge across finance, automotive, and construction into scalable models.
+### Combines hands-on experience in Data Engineering, Agentic AI, and domain-specific development, translating business knowledge across finance, automotive, and construction into scalable models.
 
 ### 📈 Current Focus
 
