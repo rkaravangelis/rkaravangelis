@@ -8,19 +8,17 @@
 ### 🌉 Role at PERI
 
 1. **Business structuring:** with product managers and domain experts, translating expert knowledge into a scalable model.
-2. **Data engineering:** building pipelines that collect and combine various internal and external data sources.
-3. **Stakeholder validation:** presenting results, gathering feedback and use cases, iterating accordingly.
+2. **Data Engineering:** Building pipelines that collect and combine various internal and external data sources.
+3. **Stakeholder validation:** Presenting results, gathering feedback and use cases, iterating accordingly.
 4. **Strategic support:** using the data to inform decisions and build business cases, including three-statement models.
 
 ### ⚙️ Tech Stack
 
-**Data Engineering & Analytics:** Python, SQL, Power BI, Web Scraping, Financial Analysis, VBA
+**Generative AI:** LLM · RAG · Vector Database · Context & Prompt Engineering
 
-**Generative AI:** Agents, RAG pipelines, LangChain, CrewAI
+**Data Engineering & Analytics:** Python · API Integration · VBA · SQL · NoSQL · ETL · Docker · Web Scraping · Power BI
 
-**Machine Learning & Deep Learning:** classical ML methods, Deep Learning, TensorFlow, PyTorch
-
-**Systems & Deployment:** Docker, Java, NoSQL
+**Machine Learning & Deep Learning:** Clustering · Regression · PyTorch
 
 ### 📂 Projects
 
